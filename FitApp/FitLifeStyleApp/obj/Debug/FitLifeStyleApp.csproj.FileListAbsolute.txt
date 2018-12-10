@@ -1,0 +1,28 @@
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\bin\Debug\FitLifeStyleApp.exe.config
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\bin\Debug\FitLifeStyleApp.exe
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\bin\Debug\FitLifeStyleApp.pdb
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.csprojResolveAssemblyReference.cache
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.Properties.Resources.resources
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.csproj.GenerateResource.Cache
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.exe
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.pdb
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.MainMenu.resources
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.BMI_Calc.resources
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.CaloriesCalc.resources
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.FindExercises.resources
+C:\Users\banan\source\Repos\FitLifeStyleApp\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.Exercises.resources
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\bin\Debug\FitLifeStyleApp.exe.config
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\bin\Debug\FitLifeStyleApp.exe
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\bin\Debug\FitLifeStyleApp.pdb
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.csprojAssemblyReference.cache
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.BMI_Calc.resources
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.CaloriesCalc.resources
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.FindExercises.resources
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.Exercises.resources
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.MainMenu.resources
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.Properties.Resources.resources
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.csproj.GenerateResource.cache
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.csproj.CoreCompileInputs.cache
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.exe
+C:\Users\banan\Desktop\Nowy folder\FitLifeStyleApp\obj\Debug\FitLifeStyleApp.pdb
